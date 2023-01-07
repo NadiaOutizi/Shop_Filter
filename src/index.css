@@ -1,0 +1,16 @@
+body{
+    overflow-x: hidden;
+    /* to hide the scroll bar */
+}
+.card-img-top{
+    width:300px;
+    height:400px;
+    /* object-fit: contain; */
+}
+label{
+    font-weight: bold;
+    margin-right: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
